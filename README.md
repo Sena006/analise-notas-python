@@ -1,22 +1,20 @@
-# Olá! Eu sou o Thiago Sena 👋
+# Automação de Planilhas com Python
 
-🎓 Estudante de Engenharia de Software  
-💻 Interessado em desenvolvimento de software e automação de dados  
+Projeto desenvolvido para automatizar a leitura e organização de dados em planilhas Excel utilizando Python.
 
-## 🚀 Tecnologias
+## Tecnologias utilizadas
 
 - Python
-- JavaScript
-- SQL
+- Pandas
+- Openpyxl
 - Excel
-- Git e GitHub
 
-## 📊 Projetos
+## Funcionalidades
 
-🔹 Automação de Planilhas com Python  
-Script desenvolvido para leitura e organização de dados em planilhas Excel.
+- Leitura de planilhas
+- Organização de dados
+- Automatização de tarefas repetitivas
 
-## 📫 Contato
+## Objetivo
 
-LinkedIn: https://www.linkedin.com/in/thiago-sena-7b7031216  
-Email: thiagosena15007@gmail.com
+Facilitar a análise e organização de dados em planilhas de forma automatizada.
